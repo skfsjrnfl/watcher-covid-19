@@ -1,16 +1,3 @@
-# pa3_2016313549
-
-A new Flutter application.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Watcher covid
+Flutter를 사용해 제작된 어플리케이션으로 <br>
+각 나라별 코로나 현황과 증가 추세를 그래프로 나타내어줌
